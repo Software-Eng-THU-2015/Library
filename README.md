@@ -1,5 +1,5 @@
 # Library
-本资料库提供有关Python开发或微信开发的资料，欢迎提交
+本资料库提供有关Python开发和微信开发的资料，欢迎提交
 
 ## Python
 - [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/)
