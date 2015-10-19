@@ -13,6 +13,6 @@
 - [微信公众平台完整开发教程 by ZTalk](http://segmentfault.com/a/1190000000446237)
 - [微信公众平台JS API](https://github.com/node-webot)
 
-## 微信公众平台第三方SDK
+## 第三方SDK
 - [wechat-PHP-SDK](https://github.com/overtrue/wechat)
 - [wechat-python-sdk](https://github.com/doraemonext/wechat-python-sdk)
